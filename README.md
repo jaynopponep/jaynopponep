@@ -3,7 +3,7 @@
 I am a 3rd year Computer Science student at the City College of New York.
 Extremely drawn to ML/AI, Deep Learning, etc.
 
-Currently exploring PyTorch and TensorFlow, refining my data analysis skills.
+Currently exploring PyTorch and TensorFlow & refining my data analysis skills.
 Planning on working on NLP-based projects and diving into AWS Cloud Computing in the future.
 
 My repository includes full-stack application projects either from coursework or from my own spare time!
