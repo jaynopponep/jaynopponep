@@ -9,6 +9,9 @@ Planning on working on NLP-based projects and diving into AWS Cloud Computing in
 My repository includes full-stack application projects either from coursework or from my own spare time!
 I've also been playing around with PyGame and learning how to create neural network-based AI to play logic based games.
 
+Also visit my huggingface space for my first project with CTIIC & @BaljinderHothi that uses the BERT transformer model to 
+classify text as AI-generated or human-written
+
 - 🌎 Based in New York City
 - 🌱 Currently learning PyTorch
 - 📫 I am reachable at noppone.po@gmail.com
