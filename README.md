@@ -1,4 +1,4 @@
-### Heyyyyyyyyy 👋 I'm Jay
+### Hi 👋 I'm Jay
 
 I am a 3rd year Computer Science student at the City College of New York.
 Extremely drawn to ML/AI, Deep Learning, etc.
