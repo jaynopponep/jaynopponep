@@ -1,18 +1,16 @@
 ### Hi 👋 I'm Jay
 
-I am a 3rd year Computer Science student at the City College of New York.
-Extremely drawn to ML/AI, Deep Learning, etc.
+3rd year CS @ City College of New York.
 
-Currently exploring PyTorch and TensorFlow & refining my data analysis skills.
-Planning on working on NLP-based projects and diving into AWS Cloud Computing in the future.
+Exploring PyTorch projects, NLP, CLI programs with Golang.
 
-My repository includes full-stack application projects either from coursework or from my own spare time!
-I've also been playing around with PyGame and learning how to create neural network-based AI to play logic based games.
+My repository: full-stack apps, some games
+In progress: CLI weather app and todo list with Go, Q-learning to train a 2048 AI, frontend dev for the BYTE club website
 
-My huggingface space has a Scikit-learn Pipeline implementation for differentiating between AI-generated and human-written text.
+My huggingface space: Scikit-learn Pipeline implementation for classifying text as AI vs human written.
 
 - 🌎 Based in New York City
-- 🌱 Currently learning PyTorch
+- 🌱 Learning PyTorch & Go
 - 📫 I am reachable at noppone.po@gmail.com
 
 ### Skills 
