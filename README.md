@@ -4,7 +4,7 @@
 
 Exploring PyTorch projects, NLP, CLI programs with Golang.
 
-My repository: full-stack apps, some games. 
+My repository: full-stack apps, some games. </br>
 In progress: CLI weather app and todo list with Go, Q-learning to train a 2048 AI, frontend dev for the BYTE club website.
 
 My huggingface space: Scikit-learn Pipeline implementation for classifying text as AI vs human written.
