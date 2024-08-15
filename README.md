@@ -2,7 +2,7 @@
 
 3rd year CS @ City College of New York.
 
-Exploring PyTorch projects, NLP, CLI programs with Golang.
+Exploring Go, Swift, and NLP projects.
 
 My repository: AI implementations, full-stack apps, games. </br>
 In progress: CLI weather app and todo list with Go, Q-learning to train a 2048 AI, frontend dev for the BYTE club website.
