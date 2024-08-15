@@ -4,8 +4,8 @@
 
 Exploring Go, Swift, and NLP projects.
 
-My repository: AI implementations, full-stack apps, games. </br>
-In progress: CLI weather app and todo list with Go, Q-learning to train a 2048 AI, frontend dev for the BYTE club website.
+My repository: full-stack web applications, CLI applications, and a few AI implementations. </br>
+In progress: Dovelop AI, Swift iOS development
 
 My huggingface space: Scikit-learn Pipeline implementation for classifying text as AI vs human written.
 
