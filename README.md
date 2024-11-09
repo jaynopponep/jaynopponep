@@ -1,17 +1,10 @@
 ### Hi 👋 I'm Jay
 
-3rd year CS @ City College of New York.
-
-Exploring Go, Swift, and NLP projects.
-
-My repository: full-stack web applications, CLI applications, and a few AI implementations. </br>
-In progress: Dovelop AI, Swift iOS development
-
-My huggingface space: Scikit-learn Pipeline implementation for classifying text as AI vs human written.
+Computer Science and Applied Mathematics @ the City College of New York (CUNY)
 
 - 🌎 Based in New York City
-- 🌱 Learning PyTorch & Go
-- 📫 I am reachable at noppone.po@gmail.com
+- 🌱 Learning Go & LLM stuff
+- 📫 I am reachable at jaynopponep.cs@gmail.com
 
 ### Skills 
 <p align="left">
