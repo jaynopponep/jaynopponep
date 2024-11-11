@@ -1,7 +1,5 @@
 ### Hi 👋 I'm Jay
 
-Computer Science and Applied Mathematics @ the City College of New York (CUNY)
-
 - 🌎 Based in New York City
 - 🌱 Learning Go & LLM stuff
 - 📫 I am reachable at jaynopponep.cs@gmail.com
