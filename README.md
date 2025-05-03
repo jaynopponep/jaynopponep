@@ -24,3 +24,9 @@ I'm a Full-Stack Developer studying Computer Science at the City College of New 
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 [![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)
 [![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7)](#)
+
+<div>
+<a href="https://github.com/jaynopponep">
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaynopponep&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=jaynopponep&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</div>
